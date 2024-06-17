@@ -9,3 +9,5 @@
 🚀 Learning: ML & Big Data
 
 📈 Passionate about insights and innovation
+
+♟️ Chess Player and Cricket Analyst
