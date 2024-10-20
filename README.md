@@ -4,10 +4,10 @@
 
 🔍 Turning data into stories
 
-💻 Python | SQL | R | Power BI | Tableau
+💻 Python | SQL | Power BI | Tableau
 
 🚀 Learning: ML & Big Data
 
 📈 Passionate about insights and innovation
 
-♟️ Chess Player and Cricket Analyst
+♟️ Chess Player
